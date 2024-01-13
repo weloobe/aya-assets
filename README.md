@@ -97,7 +97,7 @@ Logo assets, favicons, webfonts for AyaHub
 
 ## 💞 Favicons
 
-![](https://github.com/weloobe/aya-assets/blob/master/docs/preview.png?raw=true)
+![](https://github.com/weloobe/aya-assets/blob/main/docs/preview.png?raw=true)
 
 This package was generated with [RealFaviconGenerator](https://realfavicongenerator.net/) [v0.16](https://realfavicongenerator.net/change_log#v0.16)
 
@@ -229,6 +229,7 @@ $ pnpm start
 
 ## 🔗 Credits
 
+- _Inspired by [LobeHub][profile-link-lobe]_
 - real-fav-icon: <https://realfavicongenerator.net/>
 - harmonyos-fonts: <https://github.com/IKKI2000/harmonyos-fonts>
 
@@ -241,8 +242,6 @@ $ pnpm start
 ---
 
 #### 📝 License
-
-_Inspired by [LobeHub][profile-link-lobe]._ <br />
 
 Copyright © 2023 [AyaHub][profile-url]. <br />
 This project is [MIT](./LICENSE) licensed.
