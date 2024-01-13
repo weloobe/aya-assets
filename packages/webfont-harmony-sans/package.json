@@ -1,0 +1,27 @@
+{
+  "name": "@ayahub/webfont-harmony-sans",
+  "version": "1.0.0",
+  "description": "Webfont HarmonyOS Sans for AyaHub",
+  "keywords": [
+    "webfont"
+  ],
+  "homepage": "https://github.com/weloobe/aya-assets",
+  "bugs": {
+    "url": "https://github.com/weloobe/aya-assets/issues/new"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weloobe/aya-assets.git"
+  },
+  "license": "MIT",
+  "author": "AyaHub <ai@weloobe.com>",
+  "sideEffects": false,
+  "files": [
+    "fonts",
+    "css"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
