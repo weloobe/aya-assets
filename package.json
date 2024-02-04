@@ -73,7 +73,7 @@
     "remark-cli": "^11",
     "semantic-release": "^21",
     "sharp": "latest",
-    "stylelint": "^15",
+    "stylelint": "^16",
     "svgo": "latest",
     "typescript": "^5",
     "unicode-emoji-json": "latest"
