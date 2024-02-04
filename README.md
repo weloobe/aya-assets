@@ -1,30 +1,27 @@
-<a name="readme-top"></a>
+<div align="center"><a name="readme-top"></a>
 
-<div align="center">
-
-<img height="120" src="https://registry.npmmirror.com/@ayahub/assets-logo/1.2.0/files/assets/logo-3d.webp">
+<img height="120" src="https://registry.npmmirror.com/@ayahub/assets-logo/latest/files/assets/logo-3d.webp">
 <img height="120" src="https://gw.alipayobjects.com/zos/kitchen/qJ3l3EPsdW/split.svg">
-<img height="120" src="https://registry.npmmirror.com/@ayahub/assets-emoji/1.3.0/files/assets/package.webp">
+<img height="120" src="https://registry.npmmirror.com/@ayahub/assets-emoji/latest/files/assets/package.webp">
 
 <h1 align="center">Aya Assets</h1>
 
 Logo assets, favicons, webfonts for AyaHub
 
-[Changelog](./CHANGELOG.md) · [Report Bug][issues-url] · [Request Feature][issues-url]
+[![][github-release-shield]][github-release-link]
+[![][github-releasedate-shield]][github-releasedate-link]
+[![][github-action-release-shield]][github-action-release-link]<br/>
+[![][github-contributors-shield]][github-contributors-link]
+[![][github-forks-shield]][github-forks-link]
+[![][github-stars-shield]][github-stars-link]
+[![][github-issues-shield]][github-issues-link]
+[![][github-license-shield]][github-license-link]
 
-<!-- SHIELD GROUP -->
-
-[![release][release-shield]][release-url]
-[![releaseDate][release-date-shield]][release-date-url]
-[![ciRelease][ci-release-shield]][ci-release-url] <br/>
-[![contributors][contributors-shield]][contributors-url]
-[![forks][forks-shield]][forks-url]
-[![stargazers][stargazers-shield]][stargazers-url]
-[![issues][issues-shield]][issues-url]
-
-</div>
+[Changelog](./CHANGELOG.md) · [Report Bug][github-issues-link] · [Request Feature][github-issues-link]
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+</div>
 
 <details>
 <summary><kbd>Table of contents</kbd></summary>
@@ -60,22 +57,6 @@ Logo assets, favicons, webfonts for AyaHub
 | @ayahub/webfont-harmony-sans    | [![][assets-webfont-harmony-sans-release]][assets-webfont-harmony-sans-release-url]       | [ALIYUN-UNPKG][assets-webfont-harmony-sans-unpkg]    |
 | @ayahub/webfont-harmony-sans-sc | [![][assets-webfont-harmony-sans-sc-release]][assets-webfont-harmony-sans-sc-release-url] | [ALIYUN-UNPKG][assets-webfont-harmony-sans-sc-unpkg] |
 
-<!-- @ayahub/assets-logo -->
-
-<!-- @ayahub/assets-favicons -->
-
-<!-- @ayahub/assets-emoji -->
-
-<!-- @ayahub/assets-emoji-anim -->
-
-<!-- @ayahub/emojilib -->
-
-<!-- @ayahub/webfont-mono -->
-
-<!-- @ayahub/webfont-harmony-sans -->
-
-<!-- @ayahub/webfont-harmony-sans-sc -->
-
 <div align="right">
 
 [![][back-to-top]](#readme-top)
@@ -84,10 +65,10 @@ Logo assets, favicons, webfonts for AyaHub
 
 ## 🤯 Logos
 
-| <img src="https://registry.npmmirror.com/@ayahub/assets-logo/1.2.0/files/assets/logo-3d.webp" width="64" > | <img src="https://npm.elemecdn.com/@ayahub/assets-logo/assets/logo-flat.svg" width="64" > | <img src="https://npm.elemecdn.com/@ayahub/assets-logo/assets/logo-high-contrast.svg" width="64" > | <img src="https://npm.elemecdn.com/@ayahub/assets-logo/assets/logo-text.svg" width="64" > |
-| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| [Logo 3D][logo-3d]                                                                                         | [Logo Flat][logo-flat]                                                                    | [Logo High Contrast][logo-high-contrast]                                                           | [Logo Text][logo-text]                                                                    |
-| webp                                                                                                       | svg                                                                                       | svg                                                                                                | svg                                                                                       |
+| <img src="https://registry.npmmirror.com/@ayahub/assets-logo/latest/files/assets/logo-3d.webp" width="64" > | <img src="https://registry.npmmirror.com/@ayahub/assets-logo/latest/files/assets/logo-flat.svg" width="64" > | <img src="https://registry.npmmirror.com/@ayahub/assets-logo/latest/files/assets/logo-high-contrast.svg" width="64" > | <img src="https://registry.npmmirror.com/@ayahub/assets-logo/latest/files/assets/logo-text.svg" width="64" > |
+| ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| [Logo 3D][logo-3d]                                                                                          | [Logo Flat][logo-flat]                                                                                       | [Logo High Contrast][logo-high-contrast]                                                                              | [Logo Text][logo-text]                                                                                       |
+| webp                                                                                                        | svg                                                                                                          | svg                                                                                                                   | svg                                                                                                          |
 
 <div align="right">
 
@@ -104,11 +85,11 @@ This package was generated with [RealFaviconGenerator](https://realfavicongenera
 Insert the following code in the `head` section of your pages:
 
 ```
-<link rel="apple-touch-icon" sizes="180x180" href="https://registry.npmmirror.com/@ayahub/assets-favicons/1.1.0/files/assets/apple-touch-icon.png" />
-<link rel="icon" type="image/png" sizes="32x32" href="https://registry.npmmirror.com/@ayahub/assets-favicons/1.1.0/files/assets/favicon-32x32.png" />
-<link rel="icon" type="image/png" sizes="16x16" href="https://registry.npmmirror.com/@ayahub/assets-favicons/1.1.0/files/assets/favicon-16x16.png" />
-<link rel="manifest" href="https://registry.npmmirror.com/@ayahub/assets-favicons/1.1.0/files/assets/site.webmanifest" />
-<link rel="mask-icon" href="https://registry.npmmirror.com/@ayahub/assets-favicons/1.1.0/files/assets/safari-pinned-tab.svg" color="#000000" />
+<link rel="apple-touch-icon" sizes="180x180" href="https://registry.npmmirror.com/@ayahub/assets-favicons/latest/files/assets/apple-touch-icon.png" />
+<link rel="icon" type="image/png" sizes="32x32" href="https://registry.npmmirror.com/@ayahub/assets-favicons/latest/files/assets/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="https://registry.npmmirror.com/@ayahub/assets-favicons/latest/files/assets/favicon-16x16.png" />
+<link rel="manifest" href="https://registry.npmmirror.com/@ayahub/assets-favicons/latest/files/assets/site.webmanifest" />
+<link rel="mask-icon" href="https://registry.npmmirror.com/@ayahub/assets-favicons/latest/files/assets/safari-pinned-tab.svg" color="#000000" />
 <meta name="apple-mobile-web-app-title" content="AyaHub" />
 <meta name="application-name" content="AyaHub" />
 <meta name="msapplication-TileColor" content="#000000" />
@@ -126,7 +107,7 @@ _Optional_ - Check your favicon with the [favicon checker](https://realfaviconge
 ## 😀Emoji
 
 ```bash
-https://registry.npmmirror.com/@ayahub/assets-emoji/1.3.0/files < emoji-name > .webp
+https://registry.npmmirror.com/@ayahub/assets-emoji/latest/files < emoji-name > .webp
 ```
 
 | ![][emoji-1] | ![][emoji-2] | ![][emoji-3] |
@@ -135,11 +116,11 @@ https://registry.npmmirror.com/@ayahub/assets-emoji/1.3.0/files < emoji-name > .
 ### Animation Emoji
 
 ```bash
-https://registry.npmmirror.com/@ayahub/assets-emoji-anim/1.0.0/files < emoji-name > .webp
+https://registry.npmmirror.com/@ayahub/assets-emoji-anim/latestfiles < emoji-name > .webp
 ```
 
-| ![][emoji-1] | ![][emoji-2] | ![][emoji-3] |
-| ------------ | ------------ | ------------ |
+| ![][emoji-1-a] | ![][emoji-2-a] | ![][emoji-3-a] |
+| -------------- | -------------- | -------------- |
 
 <div align="right">
 
@@ -149,31 +130,31 @@ https://registry.npmmirror.com/@ayahub/assets-emoji-anim/1.0.0/files < emoji-nam
 
 ## 🔤 Webfonts
 
-[`Hack Nerd Font Mono`](https://registry.npmmirror.com/@ayahub/webfont-mono/1.0.0/files/css/index.css)
+[`Hack Nerd Font Mono`](https://registry.npmmirror.com/@ayahub/webfont-mono/latest/files/css/index.css)
 
 ```sh
 # lite
-https://registry.npmmirror.com/@ayahub/webfont-mono/1.0.0/files/css/index.css
+https://registry.npmmirror.com/@ayahub/webfont-mono/latest/files/css/index.css
 # full
-https://registry.npmmirror.com/@ayahub/webfont-mono/1.0.0/files/css/index-full.css
+https://registry.npmmirror.com/@ayahub/webfont-mono/latest/files/css/index-full.css
 ```
 
-[`HarmonyOS Sans`](https://registry.npmmirror.com/@ayahub/webfont-harmony-sans/1.0.0/files/webfont-harmony-sans/css/index.css)
+[`HarmonyOS Sans`](https://registry.npmmirror.com/@ayahub/webfont-harmony-sans/latest/files/webfont-harmony-sans/css/index.css)
 
 ```sh
 # lite
-https://registry.npmmirror.com/@ayahub/webfont-harmony-sans/1.0.0/files/css/index.css
+https://registry.npmmirror.com/@ayahub/webfont-harmony-sans/latest/files/css/index.css
 # full
-https://registry.npmmirror.com/@ayahub/webfont-harmony-sans/1.0.0/files/css/index-full.css
+https://registry.npmmirror.com/@ayahub/webfont-harmony-sans/latest/files/css/index-full.css
 ```
 
-[`HarmonyOS Sans SC`](https://registry.npmmirror.com/@ayahub/webfont-harmony-sans-sc/1.0.0/files/css/index.css)
+[`HarmonyOS Sans SC`](https://registry.npmmirror.com/@ayahub/webfont-harmony-sans-sc/latest/files/css/index.css)
 
 ```sh
 # lite
-https://registry.npmmirror.com/@ayahub/webfont-harmony-sans-sc/1.0.0/files/css/index.css
+https://registry.npmmirror.com/@ayahub/webfont-harmony-sans-sc/latest/files/css/index.css
 # full
-https://registry.npmmirror.com/@ayahub/webfont-harmony-sans-sc/1.0.0/files/css/index-full.css
+https://registry.npmmirror.com/@ayahub/webfont-harmony-sans-sc/latest/files/css/index-full.css
 ```
 
 <div align="right">
@@ -184,17 +165,18 @@ https://registry.npmmirror.com/@ayahub/webfont-harmony-sans-sc/1.0.0/files/css/i
 
 ## ⌨️ Local Development
 
-You can use Gitpod for online development:
+You can use Github Codespaces for online development:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)][gitpod-url]
+[![][github-codespace-shield]][github-codespace-link]
 
 Or clone it for local development:
+
+[![][bun-shield]][bun-link]
 
 ```bash
 $ git clone https://github.com/weloobe/aya-assets.git
 $ cd aya-assets
-$ pnpm install
-$ pnpm start
+$ bun install
 ```
 
 <div align="right">
@@ -205,21 +187,11 @@ $ pnpm start
 
 ## 🤝 Contributing
 
-<!-- CONTRIBUTION GROUP -->
+Contributions of all types are more than welcome, if you are interested in contributing code, feel free to check out our GitHub [Issues][github-issues-link] to get stuck in to show us what you’re made of.
 
-> 📊 Total: <kbd>**3**</kbd>
+[![][pr-welcome-shield]][pr-welcome-link]
 
-<a href="https://github.com/canisminor1990" title="canisminor1990">
-  <img src="https://avatars.githubusercontent.com/u/17870709?v=4" width="50" />
-</a>
-<a href="https://github.com/actions-user" title="actions-user">
-  <img src="https://avatars.githubusercontent.com/u/65916846?v=4" width="50" />
-</a>
-<a href="https://github.com/apps/dependabot" title="dependabot[bot]">
-  <img src="https://avatars.githubusercontent.com/in/29110?v=4" width="50" />
-</a>
-
-<!-- CONTRIBUTION END -->
+[![][github-contrib-shield]][github-contrib-link]
 
 <div align="right">
 
@@ -229,7 +201,7 @@ $ pnpm start
 
 ## 🔗 Credits
 
-- _Inspired by [LobeHub][profile-link-lobe]_
+- _Inspired by [ayahub][profile-link-lobe]_
 - real-fav-icon: <https://realfavicongenerator.net/>
 - harmonyos-fonts: <https://github.com/IKKI2000/harmonyos-fonts>
 
@@ -248,68 +220,64 @@ This project is [MIT](./LICENSE) licensed.
 
 <!-- LINK GROUP -->
 
-<!-- SHIELD LINK GROUP -->
-
-<!-- release -->
-
-<!-- releaseDate -->
-
-<!-- ciRelease -->
-
-<!-- contributors -->
-
-<!-- forks -->
-
-<!-- stargazers -->
-
-<!-- issues -->
-
-[assets-emoji-anim-release]: https://img.shields.io/npm/v/@ayahub/assets-emoji-anim?label=%F0%9F%A4%AF%20NPM
+[assets-emoji-anim-release]: https://img.shields.io/npm/v/@ayahub/assets-emoji-anim?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [assets-emoji-anim-release-url]: https://www.npmjs.com/package/@ayahub/assets-emoji-anim
 [assets-emoji-anim-unpkg]: https://registry.npmmirror.com/@ayahub/assets-emoji-anim
-[assets-emoji-release]: https://img.shields.io/npm/v/@ayahub/assets-emoji?label=%F0%9F%A4%AF%20NPM
+[assets-emoji-release]: https://img.shields.io/npm/v/@ayahub/assets-emoji?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [assets-emoji-release-url]: https://www.npmjs.com/package/@ayahub/assets-emoji
 [assets-emoji-unpkg]: https://registry.npmmirror.com/@ayahub/assets-emoji
-[assets-favicons-release]: https://img.shields.io/npm/v/@ayahub/assets-favicons?label=%F0%9F%A4%AF%20NPM
+[assets-favicons-release]: https://img.shields.io/npm/v/@ayahub/assets-favicons?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [assets-favicons-release-url]: https://www.npmjs.com/package/@ayahub/assets-favicons
 [assets-favicons-unpkg]: https://registry.npmmirror.com/@ayahub/assets-favicons
-[assets-logo-release]: https://img.shields.io/npm/v/@ayahub/assets-logo?label=%F0%9F%A4%AF%20NPM
+[assets-logo-release]: https://img.shields.io/npm/v/@ayahub/assets-logo?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [assets-logo-release-url]: https://www.npmjs.com/package/@ayahub/assets-logo
 [assets-logo-unpkg]: https://registry.npmmirror.com/@ayahub/assets-logo
-[assets-webfont-harmony-sans-release]: https://img.shields.io/npm/v/@ayahub/webfont-harmony-sans?label=%F0%9F%A4%AF%20NPM
+[assets-webfont-harmony-sans-release]: https://img.shields.io/npm/v/@ayahub/webfont-harmony-sans?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [assets-webfont-harmony-sans-release-url]: https://www.npmjs.com/package/@ayahub/webfont-harmony-sans
-[assets-webfont-harmony-sans-sc-release]: https://img.shields.io/npm/v/@ayahub/webfont-harmony-sans-sc?label=%F0%9F%A4%AF%20NPM
+[assets-webfont-harmony-sans-sc-release]: https://img.shields.io/npm/v/@ayahub/webfont-harmony-sans-sc?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [assets-webfont-harmony-sans-sc-release-url]: https://www.npmjs.com/package/@ayahub/webfont-harmony-sans-sc
 [assets-webfont-harmony-sans-sc-unpkg]: https://registry.npmmirror.com/@ayahub/webfont-harmony-sans-sc
 [assets-webfont-harmony-sans-unpkg]: https://registry.npmmirror.com/@ayahub/webfont-harmony-sans
-[assets-webfont-mono-release]: https://img.shields.io/npm/v/@ayahub/webfont-mono?label=%F0%9F%A4%AF%20NPM
+[assets-webfont-mono-release]: https://img.shields.io/npm/v/@ayahub/webfont-mono?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [assets-webfont-mono-release-url]: https://www.npmjs.com/package/@ayahub/webfont-mono
 [assets-webfont-mono-unpkg]: https://registry.npmmirror.com/@ayahub/webfont-mono
 [back-to-top]: https://img.shields.io/badge/-BACK_TO_TOP-151515?style=flat-square
-[ci-release-shield]: https://github.com/weloobe/aya-assets/workflows/Release%20CI/badge.svg
-[ci-release-url]: https://github.com/weloobe/aya-assets/actions?query=workflow%3ARelease%20CI
-[contributors-shield]: https://img.shields.io/github/contributors/weloobe/aya-assets.svg?style=flat
-[contributors-url]: https://github.com/weloobe/aya-assets/graphs/contributors
-[emoji-1]: https://registry.npmmirror.com/@ayahub/assets-emoji/1.3.0/files/assets/face-with-diagonal-mouth.webp
-[emoji-2]: https://registry.npmmirror.com/@ayahub/assets-emoji/1.3.0/files/assets/face-with-hand-over-mouth.webp
-[emoji-3]: https://registry.npmmirror.com/@ayahub/assets-emoji/1.3.0/files/assets/face-with-peeking-eye.webp
-[emojilib-release]: https://img.shields.io/npm/v/@ayahub/emojilib?label=%F0%9F%A4%AF%20NPM
+[bun-link]: https://bun.sh
+[bun-shield]: https://img.shields.io/badge/-speedup%20with%20bun-black?logo=bun&style=for-the-badge
+[emoji-1]: https://registry.npmmirror.com/@ayahub/assets-emoji/latest/files/assets/face-with-diagonal-mouth.webp
+[emoji-1-a]: https://registry.npmmirror.com/@ayahub/assets-emoji-anim/latest/files/assets/face-with-diagonal-mouth.webp
+[emoji-2]: https://registry.npmmirror.com/@ayahub/assets-emoji/latest/files/assets/face-with-hand-over-mouth.webp
+[emoji-2-a]: https://registry.npmmirror.com/@ayahub/assets-emoji-anim/latest/files/assets/face-with-hand-over-mouth.webp
+[emoji-3]: https://registry.npmmirror.com/@ayahub/assets-emoji/latest/files/assets/face-with-peeking-eye.webp
+[emoji-3-a]: https://registry.npmmirror.com/@ayahub/assets-emoji-anim/latest/files/assets/face-with-peeking-eye.webp
+[emojilib-release]: https://img.shields.io/npm/v/@ayahub/emojilib?color=369eff&labelColor=black&logo=npm&logoColor=white&style=flat-square
 [emojilib-release-url]: https://www.npmjs.com/package/@ayahub/emojilib
 [emojilib-unpkg]: https://raw.githubusercontent.com/weloobe/aya-assets/master/packages/emojilib/index.json
-[forks-shield]: https://img.shields.io/github/forks/weloobe/aya-assets.svg?style=flat
-[forks-url]: https://github.com/weloobe/aya-assets/network/members
-[gitpod-url]: https://gitpod.io/#https://github.com/weloobe/aya-assets
-[issues-shield]: https://img.shields.io/github/issues/weloobe/aya-assets.svg?style=flat
-[issues-url]: https://github.com/weloobe/aya-assets/issues/new/choose
-[logo-3d]: https://https://registry.npmmirror.com/@ayahub/assets-logo/1.1.0/files//assets/logo-3d.webp
-[logo-flat]: https://https://registry.npmmirror.com/@ayahub/assets-logo/1.1.0/files//assets/logo-flat.svg
-[logo-high-contrast]: https://https://registry.npmmirror.com/@ayahub/assets-logo/1.1.0/files//assets/logo-high-contrast.svg
-[logo-text]: https://https://registry.npmmirror.com/@ayahub/assets-logo/1.1.0/files/assets/logo-text.svg
-[profile-link-lobe]: https://github.com/lobehub
+[github-action-release-link]: https://github.com/weloobe/aya-assets/actions/workflows/release.yml
+[github-action-release-shield]: https://img.shields.io/github/actions/workflow/status/weloobe/aya-assets/release.yml?label=release&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
+[github-codespace-link]: https://codespaces.new/weloobe/aya-chat
+[github-codespace-shield]: https://github.com/codespaces/badge.svg
+[github-contrib-link]: https://github.com/weloobe/aya-assets/graphs/contributors
+[github-contrib-shield]: https://contrib.rocks/image?repo=weloobe%2Faya-assets
+[github-contributors-link]: https://github.com/weloobe/aya-assets/graphs/contributors
+[github-contributors-shield]: https://img.shields.io/github/contributors/weloobe/aya-assets?color=c4f042&labelColor=black&style=flat-square
+[github-forks-link]: https://github.com/weloobe/aya-assets/network/members
+[github-forks-shield]: https://img.shields.io/github/forks/weloobe/aya-assets?color=8ae8ff&labelColor=black&style=flat-square
+[github-issues-link]: https://github.com/weloobe/aya-assets/issues
+[github-issues-shield]: https://img.shields.io/github/issues/weloobe/aya-assets?color=ff80eb&labelColor=black&style=flat-square
+[github-license-link]: https://github.com/weloobe/aya-assets/blob/master/LICENSE
+[github-license-shield]: https://img.shields.io/github/license/weloobe/aya-assets?color=white&labelColor=black&style=flat-square
+[github-release-link]: https://github.com/weloobe/aya-assets/releases
+[github-release-shield]: https://img.shields.io/github/v/release/weloobe/aya-assets?color=369eff&labelColor=black&logo=github&style=flat-square
+[github-releasedate-link]: https://github.com/weloobe/aya-assets/releases
+[github-releasedate-shield]: https://img.shields.io/github/release-date/weloobe/aya-assets?labelColor=black&style=flat-square
+[github-stars-link]: https://github.com/weloobe/aya-assets/network/stargazers
+[github-stars-shield]: https://img.shields.io/github/stars/weloobe/aya-assets?color=ffcb47&labelColor=black&style=flat-square
+[logo-3d]: https://https://registry.npmmirror.com/@ayahub/assets-logo/latest/files//assets/logo-3d.webp
+[logo-flat]: https://https://registry.npmmirror.com/@ayahub/assets-logo/latestfiles//assets/logo-flat.svg
+[logo-high-contrast]: https://https://registry.npmmirror.com/@ayahub/assets-logo/latest/files//assets/logo-high-contrast.svg
+[logo-text]: https://https://registry.npmmirror.com/@ayahub/assets-logo/latest/files/assets/logo-text.svg
+[pr-welcome-link]: https://github.com/weloobe/aya-assets/pulls
+[pr-welcome-shield]: https://img.shields.io/badge/%F0%9F%A4%AF%20PR%20WELCOME-%E2%86%92-ffcb47?labelColor=black&style=for-the-badge
+[profile-link-lobe]: https://github.com/weloobe
 [profile-url]: https://github.com/weloobe
-[release-date-shield]: https://img.shields.io/github/release-date/weloobe/aya-assets?style=flat
-[release-date-url]: https://github.com/weloobe/aya-assets/releases
-[release-shield]: https://img.shields.io/npm/v/@ayahub/assets?label=%F0%9F%A4%AF%20NPM
-[release-url]: https://www.npmjs.com/package/@ayahub/assets
-[stargazers-shield]: https://img.shields.io/github/stars/weloobe/aya-assets.svg?style=flat
-[stargazers-url]: https://github.com/weloobe/aya-assets/stargazers
